@@ -1,5 +1,8 @@
 # ROScan
-One of the main steps in product development is the clarification of license terms in the developed or used software. Considering the wide usage of ROS in product development, especially in mobile robotics applications, clarification of license terms and conditions for the software provides by either ROS itself or functional ROS-packages is an important issue, especially for bigger companies. Bosch Engineering GmbH aims for performing the open source scanning (OSS) of the whole ROS core software and main mobile robotics functional packages of the kinetic branch, analyses the results and prepares a referable source of their license terms and conditions.
+Considering the wide usage of ROS in product development, especially in mobile robotic applications, clarification of license terms and conditions for the software provides by either ROS itself or functional ROS-packages is an important issue. Currently the main information about the license term is the general term appearing in the wiki.ros.org or at the GitHub pages for each package. However, this information often is too generic and unfortunately not complete. This unclear situation leads to mix of different, sometime incompatible licenses within one package. 
+
+The ROScan project provides an overview of files and there license within the ROS main packages. This project results highlight unclear license situation within the packages and may be used as base to start a discussion about. 
+
 
 
 ***
